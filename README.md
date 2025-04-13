@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=35&pause=1000&color=FFC0CB&width=435&lines=Hello+world!+I'm+Seonah ✧" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=35&pause=1000&color=FFC0CB&width=435&lines=Hello+world!+I'm+Seonah˳✧" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -24,6 +24,6 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSeonAh)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSeonAh&title_color=FFC0CB&text_color=808080&border_radius=15)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeonAh&layout=compact&border_radius=15&title_color=FFC0CB)
 </div>
