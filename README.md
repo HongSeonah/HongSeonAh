@@ -25,5 +25,6 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongSeonAh&title_color=FFC0CB&text_color=808080&border_radius=15)](https://github.com/anuraghazra/github-readme-stats) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeonAh&layout=compact&border_radius=15&title_color=FFC0CB)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HongSeonAh&layout=donut&border_radius=15&title_color=FFC0CB&hide=javascript,html,css)
+
 </div>
