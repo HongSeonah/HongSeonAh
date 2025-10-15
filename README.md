@@ -1,5 +1,4 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Modak&size=35&pause=1000&color=FFC0CB&width=435&lines=Hello+world!+I'm+Seonah%CB%B3%E2%9C%A7" alt="Typing SVG" /></a></div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
